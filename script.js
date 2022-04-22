@@ -59,4 +59,6 @@ switch (sideOfTheWorld) {
     case `восток`:
         console.log('на восток пойдешь разработчиком станешь');
         break;
+    default :
+        alert('сторона света не найдена')
 }
