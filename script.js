@@ -14,7 +14,7 @@ console.log(myAgeInSeconds);
 //#### Task 3 💻
 let count = 42;
 count = String(count);
-count = '42';
+count = 42 + ' ';
 let userName = '42'; 
 userName = Number(userName);
 userName = +'42'; 
